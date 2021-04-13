@@ -136,6 +136,10 @@
   --auto-complete-bg-color--prehighlight: var(--primary);
 }
 
+input {
+  border: none;
+}
+
 /**
     Name: IntelliJ IDEA darcula theme
     From IntelliJ IDEA by JetBrains
