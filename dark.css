@@ -68,8 +68,6 @@
   --bigtable-header-border-color: var(--dark-theme-bg-dark-grey);
   --bigtable-header-text-color: var(--text-color);
   --bigtable-row-border-color: var(--dark-theme-bg-dark-grey);
-  --even-row-color: #020202;
-  --odd-row-color: #020202;
   --table-striped-bg--hover: var(--dark-theme-bg-dark-grey);
 
   /* Pane widget */
