@@ -27,10 +27,10 @@
   --alert-info-bg-color: #0099cc;
   --alert-info-border-color: var(--alert-info-bg-color);
   --alert-warning-text-color: #fff;
-  --alert-warning-bg-color: #ff8800;
+  --alert-warning-bg-color: #f0ad4e;
   --alert-warning-border-color: var(--alert-warning-bg-color);
   --alert-danger-text-color: #fff;
-  --alert-danger-bg-color: #cc0000;
+  --alert-danger-bg-color: #d9534f;
   --alert-danger-border-color: var(--alert-danger-bg-color);
 
   /* Buttons */
@@ -38,6 +38,7 @@
   --btn-secondary-color: var(--btn-primary-color);
   --btn-link-bg--hover: var(--dark-theme-bg-dark-grey);
   --btn-link-bg--active: var(--dark-theme-bg-dark-grey);
+  --btn-text-color): var(--text-color);
 
   /* Help area */
   --help-area-bg-color: var(--dark-theme-bg-dark-grey);
