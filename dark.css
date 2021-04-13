@@ -141,6 +141,15 @@ input {
   border: none;
 }
 
+#main-panel > pre,
+#out pre, pre {
+    background-color: #110F13;
+    color: #DFDFDF;
+    padding: 30px;
+    border-radius: 10px;
+    font-size: 10.5pt;
+}
+
 /**
     Name: IntelliJ IDEA darcula theme
     From IntelliJ IDEA by JetBrains
