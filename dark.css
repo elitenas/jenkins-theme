@@ -149,7 +149,7 @@ input {
     font-size: 10.5pt;
 }
 
-#out pre {
+pre#out{
     padding: 30px;
 }
 
