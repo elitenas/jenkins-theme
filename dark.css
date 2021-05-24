@@ -161,8 +161,8 @@ pre#out{
 }
 
 .bottomscrollbar, .topscrollbar {
-    border-color: var(--input-border);
-    background-color: var(--menu-bg-color);
+    border-color: #222;
+    background-color: #2d2b2b;
 }
 
 /**
