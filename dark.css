@@ -166,6 +166,10 @@ pre#out{
     background-color: var(--menu-bg-color) !important;
 }
 
+a.yui-button.link-button {
+    color: var(--link-color) !important;
+}
+
 /**
     Name: IntelliJ IDEA darcula theme
     From IntelliJ IDEA by JetBrains
