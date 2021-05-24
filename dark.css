@@ -135,6 +135,9 @@
 
   /* Auto complete */
   --auto-complete-bg-color--prehighlight: var(--primary);
+
+  /* Weather Icons */
+  --weather-icon-color: #c0c0c0;
 }
 
 input {
