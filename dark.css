@@ -157,12 +157,12 @@ pre#out{
 }
 
 .yui-menu-body-scrolled {
-    border: 0;
+    border: 0 !important;
 }
 
 .bottomscrollbar, .topscrollbar {
-    border-color: #222;
-    background-color: #2d2b2b;
+    border-color: var(--input-border) !important;
+    background-color: var(--menu-bg-color) !important;
 }
 
 /**
