@@ -39,6 +39,7 @@
   --btn-link-bg--hover: var(--dark-theme-bg-dark-grey);
   --btn-link-bg--active: var(--dark-theme-bg-dark-grey);
   --btn-text-color: var(--text-color);
+  --btn-link-color--hover: var(--text-color);
 
   /* Help area */
   --help-area-bg-color: var(--dark-theme-bg-dark-grey);
