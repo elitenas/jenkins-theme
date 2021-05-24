@@ -156,6 +156,15 @@ pre#out{
     padding: 30px;
 }
 
+.yui-menu-body-scrolled {
+    border: 0;
+}
+
+.bottomscrollbar, .topscrollbar {
+    border-color: var(--input-border);
+    background-color: var(--menu-bg-color);
+}
+
 /**
     Name: IntelliJ IDEA darcula theme
     From IntelliJ IDEA by JetBrains
