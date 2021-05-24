@@ -82,7 +82,7 @@
   --tab-link-border-color: var(--dark-theme-bg-dark-grey);
   --tab-link-text-color: #999;
   --tab-link-checked-bg: var(--dark-theme-bg-black);
-  --tab-link-checked-text-color: var(--primary);
+  --tab-link-checked-text-color: var(--link-color);
   --tab-link-bg--hover: var(--dark-theme-bg-dark-grey);
   --tab-link-bg--active: var(--dark-theme-bg-dark-grey);
 
