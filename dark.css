@@ -226,7 +226,8 @@ a.yui-button.link-button {
 }
 
 #shutdown-msg {
-  margin: 0 !important;
+  margin-right: 0 !important;
+  margin-left: 0 !important;
 }
 
  /* End CodeMirror Darcula theme */
