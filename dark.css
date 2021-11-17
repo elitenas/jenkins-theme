@@ -88,6 +88,8 @@
   --tab-link-checked-text-color: var(--link-color);
   --tab-link-bg--hover: var(--dark-theme-bg-dark-grey);
   --tab-link-bg--active: var(--dark-theme-bg-dark-grey);
+  --tabs-item-background--selected: var(--text-color);
+  --tabs-item-foreground--selected: var(--dark-theme-bg-dark-grey);
 
   /* Side panel */
   --panel-header-bg-color: var(--dark-theme-bg-black);
