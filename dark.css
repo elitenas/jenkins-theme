@@ -73,6 +73,7 @@
   --bigtable-row-border-color: var(--dark-theme-bg-dark-grey);
   --even-row-color: var(--dark-theme-bg-dark);
   --table-striped-bg--hover: var(--dark-theme-bg-dark-grey);
+  --table-body-background: var(--dark-theme-bg-dark-grey);
 
   /* Pane widget */
   --pane-border-color: var(--dark-theme-bg-dark-grey);
