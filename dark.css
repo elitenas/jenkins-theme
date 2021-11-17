@@ -232,7 +232,7 @@ a.yui-button.link-button {
 }
 
 .jenkins-table__button, .jenkins-table .sortheader, .jenkins-table__link {
-  color: #c0c0c0;
+  color: #c0c0c0 !important;
 }
 
  /* End CodeMirror Darcula theme */
