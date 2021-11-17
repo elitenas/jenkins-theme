@@ -231,4 +231,8 @@ a.yui-button.link-button {
   margin-left: 0 !important;
 }
 
+.jenkins-table__button, .jenkins-table .sortheader, .jenkins-table__link {
+  color: #c0c0c0;
+}
+
  /* End CodeMirror Darcula theme */
