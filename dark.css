@@ -74,6 +74,7 @@
   --even-row-color: var(--dark-theme-bg-dark);
   --table-striped-bg--hover: var(--dark-theme-bg-dark-grey);
   --table-body-background: var(--dark-theme-bg-dark-grey);
+  --table-body-foreground: var(--text-color);
 
   /* Pane widget */
   --pane-border-color: var(--dark-theme-bg-dark-grey);
@@ -229,10 +230,6 @@ a.yui-button.link-button {
 #shutdown-msg {
   margin-right: 0 !important;
   margin-left: 0 !important;
-}
-
-.jenkins-table__button, .jenkins-table .sortheader, .jenkins-table__link {
-  color: #c0c0c0 !important;
 }
 
  /* End CodeMirror Darcula theme */
