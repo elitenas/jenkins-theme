@@ -241,4 +241,8 @@ a.yui-button.link-button {
 .jenkins-radio__label::before {
   background-color: #c0c0c0 !important;
 }
+
+.progress-bar {
+  margin-bottom: 30px;
+}
  /* End CodeMirror Darcula theme */
