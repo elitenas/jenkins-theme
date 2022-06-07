@@ -234,12 +234,8 @@ a.yui-button.link-button {
   margin-left: 0 !important;
 }
 
-.jenkins-table__button, .jenkins-table .sortheader, .jenkins-table__link {
+.jenkins-table__button, .jenkins-table .sortheader, .jenkins-table__link, .jenkins-radio__label::before, .jenkins-table th {
   color: #c0c0c0 !important;
-}
-
-.jenkins-radio__label::before {
-  background-color: #c0c0c0 !important;
 }
 
 .progress-bar {
